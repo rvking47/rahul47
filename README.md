@@ -1,12 +1,12 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN Stack | Problem Solver</h3>
+<h3 align="center">💻 Full Stack Web Developer | MERN, PHP & Laravel | Problem Solver</h3>
 
 ---
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A9AF7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+%2B+MySQL+Specialist;Real-Time+Application+Builder;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A9AF7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+%2B+PHP+%2B+Laravel+Specialist;Real-Time+Application+Builder;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on **Real-Time Chat & Collaborative Code Editors**  
 - 🌱 Exploring **Advanced System Design & Scalable Architectures**  
-- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, MySQL, Socket.io**  
+- 💬 Ask me about **JavaScript, React.js, Node.js, PHP, Laravel, MySQL, MongoDB, Socket.io**  
 - 🏆 Goal for 2025: Contribute to **open-source projects** & build **SaaS products**  
 - ⚡ Fun fact: I debug faster with coffee ☕ and lo-fi beats 🎧  
 
@@ -32,6 +32,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
