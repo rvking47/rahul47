@@ -1,18 +1,27 @@
-<!-- Banner / Greeting -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">💻 Full Stack Web Developer | MERN Stack | Problem Solver</h3>
 
 ---
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A9AF7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Real-Time+Application+Builder;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🚀 About Me
-- 🔭 I’m currently working on **Real-Time Collaborative Apps**  
-- 🌱 Learning **Advanced System Design & Scalable Backend Architectures**  
+- 🔭 Currently working on **Real-Time Chat & Collaborative Code Editors**  
+- 🌱 Exploring **Advanced System Design & Scalable Architectures**  
 - 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, Socket.io**  
-- ⚡ Fun fact: I debug faster with coffee ☕  
+- 🏆 Goal for 2025: Contribute to **open-source projects** & build **SaaS products**  
+- ⚡ Fun fact: I debug faster with coffee ☕ and lo-fi beats 🎧  
 
 ---
 
 ## 🛠 Tech Stack
+
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -35,10 +44,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+- **[💬 Real-Time Chat App](https://github.com/yourusername/chat-app)** – Instant messaging with Socket.io, JWT auth, and group chats  
+- **[📝 Collaborative Code Editor](https://github.com/yourusername/code-editor)** – Real-time code sharing & execution using Piston API  
+- **[📊 Leaderboard Task System](https://github.com/yourusername/leaderboard-app)** – Gamified task management with dynamic leaderboard  
+
+---
+
+## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -52,4 +79,4 @@
 
 ---
 
-⭐ **_“Code. Create. Innovate.”_**
+⭐ **_“Code. Create. Innovate.”_**  
