@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A9AF7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Real-Time+Application+Builder;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A9AF7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+%2B+MySQL+Specialist;Real-Time+Application+Builder;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on **Real-Time Chat & Collaborative Code Editors**  
 - 🌱 Exploring **Advanced System Design & Scalable Architectures**  
-- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, Socket.io**  
+- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, MySQL, Socket.io**  
 - 🏆 Goal for 2025: Contribute to **open-source projects** & build **SaaS products**  
 - ⚡ Fun fact: I debug faster with coffee ☕ and lo-fi beats 🎧  
 
@@ -35,6 +35,7 @@
 
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -63,9 +64,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Fixed)
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -79,4 +80,4 @@
 
 ---
 
-⭐ **_“Code. Create. Innovate.”_**  
+⭐ **_“Code. Create. Innovate.”_**
